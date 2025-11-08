@@ -1,0 +1,22 @@
+[
+  { "date": "2025-01-08", "platform": "tiktok", "reach": 45200, "impressions": 67800, "views": 89400, "followers": 215800, "new_followers": 1420, "posts": 2, "likes": 18900, "comments": 890, "shares": 1240 },
+  { "date": "2025-01-07", "platform": "tiktok", "reach": 42800, "impressions": 64200, "views": 84700, "followers": 214380, "new_followers": 1290, "posts": 1, "likes": 17200, "comments": 820, "shares": 1140 },
+  { "date": "2025-01-06", "platform": "tiktok", "reach": 51300, "impressions": 77000, "views": 101600, "followers": 213090, "new_followers": 1680, "posts": 3, "likes": 22400, "comments": 1050, "shares": 1480 },
+  { "date": "2025-01-05", "platform": "tiktok", "reach": 39600, "impressions": 59400, "views": 78300, "followers": 211410, "new_followers": 1140, "posts": 1, "likes": 15800, "comments": 740, "shares": 1020 },
+  { "date": "2025-01-04", "platform": "tiktok", "reach": 48900, "impressions": 73400, "views": 96800, "followers": 210270, "new_followers": 1550, "posts": 2, "likes": 20600, "comments": 970, "shares": 1360 },
+  { "date": "2025-01-03", "platform": "tiktok", "reach": 44500, "impressions": 66800, "views": 88100, "followers": 208720, "new_followers": 1340, "posts": 2, "likes": 18300, "comments": 860, "shares": 1190 },
+  { "date": "2025-01-02", "platform": "tiktok", "reach": 41200, "impressions": 61800, "views": 81500, "followers": 207380, "new_followers": 1220, "posts": 1, "likes": 16700, "comments": 790, "shares": 1090 },
+  { "date": "2025-01-01", "platform": "tiktok", "reach": 37800, "impressions": 56700, "views": 74800, "followers": 206160, "new_followers": 1060, "posts": 1, "likes": 14900, "comments": 700, "shares": 960 },
+  { "date": "2024-12-31", "platform": "tiktok", "reach": 49800, "impressions": 74700, "views": 98600, "followers": 205100, "new_followers": 1620, "posts": 2, "likes": 21400, "comments": 1010, "shares": 1410 },
+  { "date": "2024-12-30", "platform": "tiktok", "reach": 46300, "impressions": 69500, "views": 91700, "followers": 203480, "new_followers": 1470, "posts": 2, "likes": 19500, "comments": 920, "shares": 1280 },
+  { "date": "2024-12-29", "platform": "tiktok", "reach": 43100, "impressions": 64700, "views": 85300, "followers": 202010, "new_followers": 1310, "posts": 1, "likes": 17800, "comments": 840, "shares": 1160 },
+  { "date": "2024-12-28", "platform": "tiktok", "reach": 40200, "impressions": 60300, "views": 79600, "followers": 200700, "new_followers": 1180, "posts": 1, "likes": 16100, "comments": 760, "shares": 1040 },
+  { "date": "2024-12-27", "platform": "tiktok", "reach": 52400, "impressions": 78600, "views": 103700, "followers": 199520, "new_followers": 1740, "posts": 3, "likes": 23100, "comments": 1090, "shares": 1520 },
+  { "date": "2024-12-26", "platform": "tiktok", "reach": 47800, "impressions": 71700, "views": 94600, "followers": 197780, "new_followers": 1520, "posts": 2, "likes": 20100, "comments": 950, "shares": 1330 },
+  { "date": "2024-12-25", "platform": "tiktok", "reach": 44900, "impressions": 67400, "views": 88900, "followers": 196260, "new_followers": 1390, "posts": 2, "likes": 18600, "comments": 880, "shares": 1220 },
+  { "date": "2024-12-24", "platform": "tiktok", "reach": 41600, "impressions": 62400, "views": 82300, "followers": 194870, "new_followers": 1240, "posts": 1, "likes": 16900, "comments": 800, "shares": 1100 },
+  { "date": "2024-12-23", "platform": "tiktok", "reach": 50200, "impressions": 75300, "views": 99400, "followers": 193630, "new_followers": 1650, "posts": 2, "likes": 21800, "comments": 1030, "shares": 1440 },
+  { "date": "2024-12-22", "platform": "tiktok", "reach": 45700, "impressions": 68600, "views": 90500, "followers": 191980, "new_followers": 1440, "posts": 2, "likes": 19200, "comments": 910, "shares": 1260 },
+  { "date": "2024-12-21", "platform": "tiktok", "reach": 43400, "impressions": 65100, "views": 85900, "followers": 190540, "new_followers": 1330, "posts": 1, "likes": 17900, "comments": 850, "shares": 1170 },
+  { "date": "2024-12-20", "platform": "tiktok", "reach": 40800, "impressions": 61200, "views": 80700, "followers": 189210, "new_followers": 1200, "posts": 1, "likes": 16400, "comments": 780, "shares": 1070 }
+]

@@ -1,0 +1,105 @@
+@media print {
+  /* Hide non-printable elements */
+  .no-print {
+    display: none !important;
+  }
+
+  /* Page setup */
+  @page {
+    size: A4;
+    margin: 2cm;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  /* Container adjustments */
+  .kit-container {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+
+  /* Typography */
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+    color: black !important;
+  }
+
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* Cards and sections */
+  section {
+    page-break-inside: avoid;
+    margin-bottom: 2rem;
+  }
+
+  /* Remove shadows and backgrounds */
+  .glass-card {
+    background: white !important;
+    border: 1px solid #e5e7eb !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+  }
+
+  /* Ensure readability */
+  .text-muted-foreground {
+    color: #6b7280 !important;
+  }
+
+  .gradient-text {
+    background: none !important;
+    color: #ef4444 !important;
+    -webkit-text-fill-color: unset !important;
+  }
+
+  .gradient-primary {
+    background: #ef4444 !important;
+  }
+
+  /* Links */
+  a {
+    text-decoration: none;
+    color: black !important;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #6b7280;
+  }
+
+  /* Buttons should look like text */
+  button {
+    border: 1px solid #e5e7eb !important;
+    background: white !important;
+    color: black !important;
+  }
+
+  /* Images */
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  /* Charts and complex elements */
+  canvas {
+    max-width: 100% !important;
+  }
+
+  /* Badges */
+  .badge {
+    border: 1px solid #e5e7eb !important;
+    background: white !important;
+    color: black !important;
+  }
+
+  /* Remove unnecessary spacing */
+  .space-y-16 > * + * {
+    margin-top: 2rem !important;
+  }
+}

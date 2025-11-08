@@ -1,0 +1,22 @@
+[
+  { "date": "2025-01-08", "platform": "instagram", "reach": 28400, "impressions": 42600, "views": 35200, "followers": 127500, "new_followers": 850, "posts": 3, "likes": 12400, "comments": 520, "shares": 340, "saves": 890 },
+  { "date": "2025-01-07", "platform": "instagram", "reach": 26200, "impressions": 39300, "views": 32800, "followers": 126650, "new_followers": 720, "posts": 2, "likes": 11200, "comments": 480, "shares": 310, "saves": 820 },
+  { "date": "2025-01-06", "platform": "instagram", "reach": 31500, "impressions": 47200, "views": 39100, "followers": 125930, "new_followers": 980, "posts": 4, "likes": 14800, "comments": 640, "shares": 420, "saves": 1120 },
+  { "date": "2025-01-05", "platform": "instagram", "reach": 24800, "impressions": 37200, "views": 30600, "followers": 124950, "new_followers": 650, "posts": 2, "likes": 10600, "comments": 440, "shares": 280, "saves": 740 },
+  { "date": "2025-01-04", "platform": "instagram", "reach": 29600, "impressions": 44400, "views": 36800, "followers": 124300, "new_followers": 890, "posts": 3, "likes": 13200, "comments": 560, "shares": 370, "saves": 980 },
+  { "date": "2025-01-03", "platform": "instagram", "reach": 27300, "impressions": 41000, "views": 33900, "followers": 123410, "new_followers": 760, "posts": 2, "likes": 11800, "comments": 510, "shares": 330, "saves": 870 },
+  { "date": "2025-01-02", "platform": "instagram", "reach": 25900, "impressions": 38800, "views": 32100, "followers": 122650, "new_followers": 710, "posts": 3, "likes": 11000, "comments": 470, "shares": 300, "saves": 800 },
+  { "date": "2025-01-01", "platform": "instagram", "reach": 22400, "impressions": 33600, "views": 27800, "followers": 121940, "new_followers": 580, "posts": 1, "likes": 9400, "comments": 390, "shares": 250, "saves": 660 },
+  { "date": "2024-12-31", "platform": "instagram", "reach": 30200, "impressions": 45300, "views": 37500, "followers": 121360, "new_followers": 920, "posts": 3, "likes": 13600, "comments": 590, "shares": 390, "saves": 1040 },
+  { "date": "2024-12-30", "platform": "instagram", "reach": 28700, "impressions": 43100, "views": 35600, "followers": 120440, "new_followers": 840, "posts": 2, "likes": 12800, "comments": 550, "shares": 360, "saves": 950 },
+  { "date": "2024-12-29", "platform": "instagram", "reach": 26500, "impressions": 39800, "views": 32900, "followers": 119600, "new_followers": 730, "posts": 3, "likes": 11400, "comments": 490, "shares": 320, "saves": 850 },
+  { "date": "2024-12-28", "platform": "instagram", "reach": 24200, "impressions": 36300, "views": 30000, "followers": 118870, "new_followers": 640, "posts": 2, "likes": 10200, "comments": 430, "shares": 270, "saves": 720 },
+  { "date": "2024-12-27", "platform": "instagram", "reach": 32100, "impressions": 48200, "views": 39800, "followers": 118230, "new_followers": 1050, "posts": 4, "likes": 15200, "comments": 670, "shares": 440, "saves": 1180 },
+  { "date": "2024-12-26", "platform": "instagram", "reach": 29400, "impressions": 44100, "views": 36500, "followers": 117180, "new_followers": 870, "posts": 3, "likes": 13000, "comments": 570, "shares": 380, "saves": 1010 },
+  { "date": "2024-12-25", "platform": "instagram", "reach": 27800, "impressions": 41700, "views": 34500, "followers": 116310, "new_followers": 800, "posts": 2, "likes": 12200, "comments": 530, "shares": 340, "saves": 910 },
+  { "date": "2024-12-24", "platform": "instagram", "reach": 25600, "impressions": 38400, "views": 31700, "followers": 115510, "new_followers": 690, "posts": 2, "likes": 10800, "comments": 460, "shares": 290, "saves": 780 },
+  { "date": "2024-12-23", "platform": "instagram", "reach": 30800, "impressions": 46200, "views": 38200, "followers": 114820, "new_followers": 950, "posts": 3, "likes": 14200, "comments": 620, "shares": 410, "saves": 1090 },
+  { "date": "2024-12-22", "platform": "instagram", "reach": 28100, "impressions": 42200, "views": 34900, "followers": 113870, "new_followers": 820, "posts": 3, "likes": 12600, "comments": 540, "shares": 350, "saves": 930 },
+  { "date": "2024-12-21", "platform": "instagram", "reach": 26800, "impressions": 40200, "views": 33200, "followers": 113050, "new_followers": 750, "posts": 2, "likes": 11600, "comments": 500, "shares": 320, "saves": 860 },
+  { "date": "2024-12-20", "platform": "instagram", "reach": 24600, "impressions": 36900, "views": 30500, "followers": 112300, "new_followers": 660, "posts": 2, "likes": 10400, "comments": 450, "shares": 280, "saves": 750 }
+]
