@@ -666,6 +666,22 @@ body.nav-condensed .site-nav {
     align-items: stretch;
   }
 
+  .hero__media-inner {
+    padding: 0.75rem;
+  }
+
+  .hero__floating-card {
+    bottom: 0.75rem;
+    padding: 0.7rem 1.1rem;
+    min-width: 190px;
+    transform: translateX(-50%) scale(0.9);
+    transform-origin: bottom center;
+  }
+
+  .hero__floating-value {
+    font-size: 1.6rem;
+  }
+
   .platform-grid,
   .services-list,
   .audience-grid,
