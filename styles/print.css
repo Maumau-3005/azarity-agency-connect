@@ -1,4 +1,4 @@
-@media print {
+﻿@media print {
   /* Hide non-printable elements */
   .no-print {
     display: none !important;
