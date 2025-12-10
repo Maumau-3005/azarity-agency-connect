@@ -606,6 +606,12 @@ body.nav-condensed .site-nav {
   font-size: 0.9rem;
 }
 
+.footer-update {
+  margin-top: 0.25rem;
+  font-size: 0.8rem;
+  opacity: 0.85;
+}
+
 [data-animate] {
   opacity: 0;
   transform: translateY(30px);
