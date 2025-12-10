@@ -282,9 +282,10 @@ body.nav-condensed .site-nav {
 .hero__tagline {
   margin-top: -1.25rem;
   margin-bottom: 1.75rem;
-  font-size: 0.98rem;
-  font-style: italic;
-  color: var(--muted);
+  font-size: 1.15rem;
+  font-family: 'Dancing Script', 'Playfair Display', cursive;
+  font-weight: 500;
+  color: var(--muted-strong);
 }
 
 .hero__actions {
